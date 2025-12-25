@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abdullah 👋
 
-<!--
-**abdullahaslam-dev/abdullahaslam-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend & AI Engineer in progress  
+⚙️ Node.js • NestJS • PostgreSQL • LangChain  
+📍 Islamabad, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I'm building AI-powered backend systems and learning how to design scalable, real-world applications.  
+Currently focused on backend engineering, AI integration, and clean architecture.
+
+---
+
+## 🔧 Tech Stack
+- **Backend:** Node.js, NestJS  
+- **Database:** PostgreSQL, Supabase  
+- **AI:** LangChain, OpenAI  
+- **Tools:** Git, GitHub, Docker (learning)
+
+---
+
+## 🎯 Current Goals
+- Build AI-powered backend projects  
+- Improve system design skills  
+- Share my learning in public  
+- Prepare for freelance & SaaS work  
+
+---
+
+## 🔗 Connect With Me
+- GitHub: https://github.com/abdullahaslam-dev  
+- LinkedIn: https://linkedin.com/in/abdullahaslam-dev  
+- Email: abdullah.aslam.dev@gmail.com
+
